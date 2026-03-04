@@ -1,0 +1,68 @@
+{
+  "Avg": {
+    "gpufbmem": 0.0,
+    "gpumempct": 0.0,
+    "gpusmpct": 0.0,
+    "ngpus": 0.0,
+    "nprocs": 1.0,
+    "nthreads": 1.0,
+    "pss": 768268.0,
+    "rchar": 10980.0,
+    "read_bytes": 0.0,
+    "rss": 771200.0,
+    "rx_bytes": 59101.0,
+    "rx_packets": 330.0,
+    "swap": 0.0,
+    "tx_bytes": 100278.0,
+    "tx_packets": 320.0,
+    "vmem": 774372.0,
+    "wchar": 0.0,
+    "write_bytes": 0.0
+  },
+  "HW": {
+    "cpu": {
+      "CPUs": 12,
+      "CoresPerSocket": 8,
+      "ModelName": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "Sockets": 1,
+      "ThreadsPerCore": 2
+    },
+    "gpu": {
+      "gpu_0": {
+        "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+        "sm_freq": 2100,
+        "total_mem": 4194304
+      },
+      "nGPU": 1
+    },
+    "mem": {
+      "MemTotal": 16031388
+    }
+  },
+  "Max": {
+    "gpufbmem": 0,
+    "gpumempct": 0,
+    "gpusmpct": 0,
+    "ngpus": 0,
+    "nprocs": 1,
+    "nthreads": 1,
+    "pss": 1024268,
+    "rchar": 6588,
+    "read_bytes": 0,
+    "rss": 1027200,
+    "rx_bytes": 35461,
+    "rx_packets": 198,
+    "stime": 0,
+    "swap": 0,
+    "tx_bytes": 60167,
+    "tx_packets": 192,
+    "utime": 59,
+    "vmem": 1030372,
+    "wchar": 0,
+    "write_bytes": 0,
+    "wtime": 60
+  },
+  "prmon": {
+    "Version": "3.2.0"
+  }
+}
